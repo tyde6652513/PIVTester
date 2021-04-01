@@ -1,0 +1,5 @@
+D:\Document\CSharp\PIVTester\TestSeting\bin\Debug\TestSeting.dll
+D:\Document\CSharp\PIVTester\TestSeting\bin\Debug\TestSeting.pdb
+D:\Document\CSharp\PIVTester\TestSeting\obj\Debug\TestSeting.dll
+D:\Document\CSharp\PIVTester\TestSeting\obj\Debug\TestSeting.pdb
+D:\Document\CSharp\PIVTester\TestSeting\obj\Debug\TestSeting.csprojResolveAssemblyReference.cache

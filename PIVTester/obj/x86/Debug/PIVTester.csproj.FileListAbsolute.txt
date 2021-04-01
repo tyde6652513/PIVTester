@@ -1,0 +1,13 @@
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\PIVTester.exe
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\PIVTester.pdb
+D:\Document\CSharp\PIVTester\PIVTester\obj\x86\Debug\PIVTester.Properties.Resources.resources
+D:\Document\CSharp\PIVTester\PIVTester\obj\x86\Debug\PIVTester.csproj.GenerateResource.Cache
+D:\Document\CSharp\PIVTester\PIVTester\obj\x86\Debug\PIVTester.exe
+D:\Document\CSharp\PIVTester\PIVTester\obj\x86\Debug\PIVTester.pdb
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\GUI.dll
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\GUI.pdb
+D:\Document\CSharp\PIVTester\PIVTester\obj\x86\Debug\PIVTester.csprojResolveAssemblyReference.cache
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\Device.dll
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\Device.pdb
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\TestSeting.dll
+D:\Document\CSharp\PIVTester\PIVTester\bin\Debug\TestSeting.pdb

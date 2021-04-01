@@ -1,0 +1,14 @@
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\GUI.dll
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\GUI.pdb
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.frmMain.resources
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.dll
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.pdb
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\GUI.dll.config
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\Device.dll
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\Device.pdb
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.K2601.frmConnect.resources
+D:\Document\CSharp\PIVTester\GUI\obj\Debug\GUI.DMM650.frmConnectDMM.resources
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\TestSeting.dll
+D:\Document\CSharp\PIVTester\GUI\bin\Debug\TestSeting.pdb
